@@ -1,0 +1,62 @@
+.text1{
+  animation: text 3s 1;
+}
+@keyframes text {
+  0%{
+    color: #222541;
+    margin-bottom: -40px;
+  }
+  30%{
+    letter-spacing: 2px;
+    margin-bottom: -40px;
+  }
+  80%{
+    letter-spacing: 1px;
+    margin-bottom: -40px;
+  }
+}
+
+
+.text2 {
+  animation: text 3s 1;
+}
+
+@keyframes text {
+  0% {
+    color: #222541;
+    transform: translate(10%);
+    
+;
+  }
+
+  30% {
+    
+   transform: translate(50%);
+  }
+
+  80% {
+    
+    transform: translate(0%);
+    border-color: aqua;
+  }
+}
+
+.text3 {
+  animation: text 2s 1 ease-in-out;
+}
+
+@keyframes text {
+  0% {
+    color: #222541;
+    transform: translate(10%);
+
+    ;
+  }
+
+  30% {
+
+    transform: translate(20%);
+  }
+
+
+}

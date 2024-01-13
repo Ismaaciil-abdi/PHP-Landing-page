@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="831" height="831" viewBox="0 0 831 831">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-0.193" y1="0.047" x2="1" y2="0.567" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#14e105"/>
+      <stop offset="1" stop-color="#24d15e"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_34" data-name="Ellipse 34" class="cls-1" cx="415.5" cy="415.5" r="415.5"/>
+</svg>
